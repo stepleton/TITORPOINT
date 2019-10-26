@@ -299,7 +299,7 @@ TITORPOINT.jpg)
     ∇
 
 
-    ∇ T←TIN edCPY I;K;IN
+    ∇ T←TIN edCPY I
 [1]  ⍝ FOR EDIT: COPY LINE 1↑I to LINES 1↓I
 [2]   T←TIN
 [3]   →0×⍳2>⍴I
